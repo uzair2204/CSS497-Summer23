@@ -1,0 +1,3 @@
+[Aug 11, 2023 04:16:28,942][INFO ][restartedMain][WebApplication] - Starting WebApplication using Java 20.0.1 with PID 5920 (C:\Users\Usman\Documents\GitHub\mahvilady\ecomerce-backend\ecomerce\target\classes started by Usman in C:\Users\Usman\Documents\GitHub\mahvilady\ecomerce-backend\ecomerce)
+[Aug 11, 2023 04:16:28,951][INFO ][restartedMain][WebApplication] - No active profile set, falling back to 1 default profile: "default"
+[Aug 11, 2023 04:16:41,753][INFO ][restartedMain][WebApplication] - Started WebApplication in 13.477 seconds (process running for 16.711)
